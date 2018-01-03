@@ -1,0 +1,9 @@
+X-Frame-Options
+Content-Security-Policy
+X-Content-Type-Options
+Cache-Control
+X-XSS-Protection
+Server
+Referrer-Policy
+Public-Key-Pins
+Strict-Transport-Policy
